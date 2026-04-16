@@ -19,5 +19,3 @@ This project analyzes EV charging station usage, vehicle trends, and demand patt
 - Report (PDF)
 - Screenshots
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
